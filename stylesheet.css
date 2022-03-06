@@ -4,10 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Lucida Grande";
-}
-
-a {
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji; 
   text-decoration: none;
 }
 
@@ -22,7 +19,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 0px 0 960px 0;
+  padding: 500mm 0 0mm 0;
   background-image: url(https://raw.githubusercontent.com/Gilardiii/WeddingOrganizer/main/WhatsApp%20Image%202022-03-05%20at%2016.36.22.jpeg);
   background-size: cover;
   color: white;
