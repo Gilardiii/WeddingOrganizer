@@ -88,15 +88,11 @@ header {
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
-  padding-right: 5%;
+  padding-right: 15%;
   background-color: #f778;
   text-align: center;
 }
 
-.lesson-icon {
-  padding-left : 5%;
-  padding-right : 20%;
-} 
 .heading {
   padding-top: 70px;
   padding-bottom: 5px;
@@ -111,7 +107,6 @@ header {
   float: left;
   width: 25%;
 }
-
 @media all and (max-width: 1000px) {
   .top-wrapper h1 {
     font-size: 32px;
