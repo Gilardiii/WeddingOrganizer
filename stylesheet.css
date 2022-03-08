@@ -56,16 +56,16 @@ header {
   margin-top: -30px;
 }
 
-.header-left {
-  float: left;
-}
-
 .header-right {
   float: right;
-  margin-right: -25px;
 }
 
-.header-right a {
+.header-left {
+  float: left;
+  margin-left: -25px;
+}
+
+.header-left a {
   line-height: 65px;
   padding: 0 25px;
   color: white;
@@ -74,7 +74,7 @@ header {
   transition: all 0.5s;
 }
 
-.header-right a:hover {
+.header-left a:hover {
   background-color: rgba(255, 255, 255, 0.3);
 }
 .menu-icon{
