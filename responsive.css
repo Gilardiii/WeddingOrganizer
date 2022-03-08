@@ -4,12 +4,21 @@
     width: 100%;
   }
   
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
   .top-wrapper {
     text-align: center;
       padding: 87mm 0 59mm 0;
       margin-right: 
   }
-  .header-right {
+  
+  .header-left {
+  float: left;
+}
+
+.header-right {
   float: center;
   margin-right: -25px;
   opacity: 0.7;
@@ -31,3 +40,4 @@
   footer {
     text-align: right;
   }
+
