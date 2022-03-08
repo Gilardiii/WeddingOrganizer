@@ -4,18 +4,16 @@
     width: 100%;
   }
   
-  .facebook {
-    margin-bottom: 10px;
-  }
-  
   .top-wrapper {
     text-align: center;
       padding: 87mm 0 59mm 0;
       margin-right: 
   }
   .header-right {
-    display: none;
-  }
+  float: center;
+  margin-right: -25px;
+  opacity: 0.7;
+}
   .menu-icon {
     display: block;
   }
