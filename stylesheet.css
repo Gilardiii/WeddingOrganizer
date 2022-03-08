@@ -57,16 +57,17 @@ header {
   margin-top: -30px;
 }
 
-.header-right {
-  float: right;
-}
-
 .header-left {
   float: left;
-  margin-left: -25px;
+  margin-left: -50px;
 }
 
-.header-left a {
+.header-right {
+  float: left;
+  margin-left: -40px;
+}
+
+.header-right a {
   line-height: 65px;
   padding: 0 25px;
   color: white;
