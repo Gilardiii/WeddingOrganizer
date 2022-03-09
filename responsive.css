@@ -22,6 +22,9 @@
   .lesson {
     width: 100%;
   }
+  .lesson-wrapper{
+    float : center;
+  }
   footer {
     text-align: right;
   }
